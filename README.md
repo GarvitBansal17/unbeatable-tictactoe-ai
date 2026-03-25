@@ -21,7 +21,3 @@ This project demonstrates fundamental Artificial Intelligence decision-making pr
 To run this application, you must have Python installed on your system.
 * Python 3.x (No external packages like `pip install` are required).
 
-## 🚀 Installation & Setup
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR-GITHUB-USERNAME]/[YOUR-REPOSITORY-NAME].git
