@@ -21,8 +21,8 @@ This project demonstrates fundamental Artificial Intelligence decision-making pr
 To run this application, you must have Python installed on your system.
 * Python 3.x
 
-  ## 🚀 Installation & Setup
+  ##  Installation & Setup
 1. Clone this repository to your local machine:
-   ```bash
+   bash
    git clone [https://github.com/](https://github.com/)[Garvitbansal17]/[unbeatable-tictactoe-ai.].git
 
